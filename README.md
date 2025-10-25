@@ -1,33 +1,27 @@
-# Travel-Assistance-TAS-
+Personalized learning tool using (RAG + search API)
+Technology Stack
+Frontend- React
+Backend- python(flask)
+Database- Chromadb
+API- tavily, groq, jina, huggingface
+setup you API keys
+create your .env file to save the API keys
 
-## Backend Setup (Windows PowerShell)
+JINA_API_KEY = "YOUR_API_KEY"
+GROQ_API_KEY = "YOUR_API_KEY"
+HF_TOKEN = "YOUR_API_KEY"
+HF_HOME = Hugging _face/
+TAVILY_API = "YOUR_API_KEY"
+BASE_URL = "http://127.0.0.1:5000" #backend api endpoint (base url)
+Installation
+Install my-project with npm
 
-Set required environment variables (run once):
+starting the react app
 
-```powershell
-setx MONGODB_URI "mongodb://localhost:27017"
-setx DB_NAME "monsoon"
-setx JWT_SECRET "change-this-secret"
-setx google_cloud "YOUR_GOOGLE_ROUTES_API_KEY"
-setx perplexity_api "YOUR_PERPLEXITY_API_KEY"
-```
-
-Install dependencies and run the API:
-
-```powershell
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload --host 0.0.0.0 --port 8000
-```
-
-Notes:
-- After using `setx`, restart your terminal so variables are available.
-- Ensure MongoDB is running locally or update `MONGODB_URI` to your Atlas URI.
-
-Backend
-cd backend
-fastapi dev main.py
-
-Frontend
 cd frontend
+npm Install
 npm start
+starting the backend server (switch terminal)
+
+pip install -r requirements.txt 
+python main.py
