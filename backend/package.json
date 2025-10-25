@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fastapi": "^0.0.8",
+    "motor": "^0.1.4",
+    "openai": "^5.23.0",
+    "requests": "^0.3.0",
+    "requets": "^0.0.1-security"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2025-10-08",
+  "news": [
+    {
+      "title": "Heavy Traffic on MG Road Due to Metro Construction",
+      "description": "Traffic congestion reported on MG Road due to ongoing metro construction work. Commuters advised to take alternative routes.",
+      "source": "Bangalore Traffic Police",
+      "timestamp": "2025-10-08T16:39:44.652195",
+      "impact_level": "High",
+      "category": "traffic"
+    },
+    {
+      "title": "New Traffic Signal System Implemented at Silk Board Junction",
+      "description": "Smart traffic signal system installed to improve traffic flow at the busy Silk Board junction.",
+      "source": "BBMP",
+      "timestamp": "2025-10-08T16:39:44.652203",
+      "impact_level": "Medium",
+      "category": "traffic"
+    },
+    {
+      "title": "Road Closure on Bannerghatta Road",
+      "description": "Bannerghatta Road closed for maintenance work between 10 PM and 5 AM for the next three days.",
+      "source": "BBMP",
+      "timestamp": "2025-10-08T16:39:44.652205",
+      "impact_level": "High",
+      "category": "traffic"
+    },
+    {
+      "title": "Traffic Diversion on Outer Ring Road",
+      "description": "Traffic diverted on Outer Ring Road due to ongoing flyover construction. Alternative routes suggested.",
+      "source": "Bangalore Traffic Police",
+      "timestamp": "2025-10-08T16:39:44.652207",
+      "impact_level": "Medium",
+      "category": "traffic"
+    },
+    {
+      "title": "New Bus Lane Implementation",
+      "description": "Dedicated bus lanes implemented on major corridors to improve public transport efficiency.",
+      "source": "BMTC",
+      "timestamp": "2025-10-08T16:39:44.652208",
+      "impact_level": "Medium",
+      "category": "traffic"
+    },
+    {
+      "title": "Heavy Rainfall Expected in Bengaluru",
+      "description": "IMD predicts heavy rainfall with 80% probability across Bengaluru. Commuters advised to avoid waterlogged areas and plan travel accordingly.",
+      "source": "India Meteorological Department",
+      "timestamp": "2025-10-08T16:39:44.652210",
+      "impact_level": "High",
+      "category": "weather"
+    },
+    {
+      "title": "Flood Warning for Low-Lying Areas",
+      "description": "Flood warning issued for low-lying areas including Koramangala, Indiranagar, and parts of Whitefield due to continuous rainfall.",
+      "source": "Karnataka State Disaster Management Authority",
+      "timestamp": "2025-10-08T16:39:44.652212",
+      "impact_level": "High",
+      "category": "weather"
+    },
+    {
+      "title": "Thunderstorm Alert for Evening Hours",
+      "description": "Thunderstorm with lightning expected between 4 PM to 8 PM. Avoid outdoor activities and seek shelter if caught outside.",
+      "source": "IMD Bengaluru",
+      "timestamp": "2025-10-08T16:39:44.652213",
+      "impact_level": "Medium",
+      "category": "weather"
+    },
+    {
+      "title": "Visibility Reduced Due to Fog",
+      "description": "Dense fog reported on major highways leading to Bengaluru. Motorists advised to drive with caution and use headlights.",
+      "source": "Karnataka Traffic Police",
+      "timestamp": "2025-10-08T16:39:44.652214",
+      "impact_level": "Medium",
+      "category": "weather"
+    },
+    {
+      "title": "Temperature Drop Expected",
+      "description": "Significant temperature drop expected over the next 24 hours. Minimum temperature may reach 18\u00b0C with high humidity.",
+      "source": "IMD Regional Office",
+      "timestamp": "2025-10-08T16:39:44.652220",
+      "impact_level": "Low",
+      "category": "weather"
+    }
+  ],
+  "last_updated": "2025-10-08T16:39:44.652229"
+}

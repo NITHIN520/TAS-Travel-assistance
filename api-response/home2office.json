@@ -1,0 +1,673 @@
+{
+    "routes": [
+      {
+        "legs": [
+          {
+            "distanceMeters": 8802,
+            "duration": "1850s",
+            "staticDuration": "1605s",
+            "polyline": {
+              "encodedPolyline": "m}tmAginxMn@BHgAPeBBS@KDi@BY?]AKAQCSMiAC_@Ga@E[AOCO?KScCKmBOoAEg@CYCWWsCEuAAi@kDBCGC{@C}AaAB_ABO@eABQ@W?I?_@?c@AG?G?m@Ao@AOA_AAK?EAc@CMAu@Ey@Iw@K]IWIWM[YQO_@]a@SYIg@GGBKHE^IjAKNYJ]BmADqHh@}BJe@GSMEICMMq@Mu@G[_@o@_@Ug@Ya@OYk@GIQUQ_@g@w@EMCAg@UIGe@_@IGo@c@GCs@[CAs@_@y@[ECYAoA@q@??}@AqAoB?c@Ai@@?O@eI@MJI?U?iCA{@?gFAqAAaA?_@?c@CeD?u@?cC?oC?k@BoG@i@@UTwE@g@A[aA{FMw@e@wBQ{@Mu@qFRkBLmCNaFVK?KwDCUq@D}ETkCFc@@WBaCGSAG?wA@K?YCqAAoF@yCEgBCw@Ae@Ag@HeDKwEKuBII?}BEqCG}AEi@AyACuEII?I?oFSS?k@AsCEa@AwBEiACgCAM?W?[AkA?gCEwAGMBiAAM@mA?W?iAAcBGmBKeC_@aBUoAOgBSgAW[Qs@Ak@Aa@?[AoAQ}@McAIg@GFu@F_AHsARmCHu@BIJIJqADs@J}AFs@HeBFm@Bg@Be@BSBWBYNs@DQDOFWV_AJe@DQVu@zAyCnBgD`@o@LSNShAyAx@iA"
+            },
+            "startLocation": {
+              "latLng": {
+                "latitude": 12.8919078,
+                "longitude": 77.5747595
+              }
+            },
+            "endLocation": {
+              "latLng": {
+                "latitude": 12.9339867,
+                "longitude": 77.61083339999999
+              }
+            },
+            "steps": [
+              {
+                "distanceMeters": 27,
+                "staticDuration": "7s",
+                "polyline": {
+                  "encodedPolyline": "m}tmAginxMn@B"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.8919078,
+                    "longitude": 77.5747595
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.891666700000002,
+                    "longitude": 77.5747413
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "DEPART",
+                  "instructions": "Head south on 1st Main Rd toward RBI Layout Main Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "89 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 688,
+                "staticDuration": "145s",
+                "polyline": {
+                  "encodedPolyline": "}{tmAcinxMHgAPeBBS@KDi@BY?]AKAQCSMiAC_@Ga@E[AOCO?KScCKmBOoAEg@CYCWWsCEuAAi@"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.891666700000002,
+                    "longitude": 77.5747413
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.8921493,
+                    "longitude": 77.5810144
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left onto RBI Layout Main Rd\nPass by Brahmin Tiffins - JP Nagar (on the right in 0.3 mi)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.4 mi"
+                  },
+                  "staticDuration": {
+                    "text": "2 mins"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 134,
+                "staticDuration": "32s",
+                "polyline": {
+                  "encodedPolyline": "}~tmAipoxMkDBCGC{@"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.8921493,
+                    "longitude": 77.5810144
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.893046799999999,
+                    "longitude": 77.58133389999999
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left toward 18th Main Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "440 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 51,
+                "staticDuration": "12s",
+                "polyline": {
+                  "encodedPolyline": "qdumAiroxMC}A"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.893046799999999,
+                    "longitude": 77.58133389999999
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.8930733,
+                    "longitude": 77.5818032
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "NAME_CHANGE",
+                  "instructions": "Continue onto 18th Main Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "167 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 1635,
+                "staticDuration": "334s",
+                "polyline": {
+                  "encodedPolyline": "udumAguoxMaAB_ABO@eABQ@W?I?_@?c@AG?G?m@Ao@AOA_AAK?EAc@CMAu@Ey@Iw@K]IWIWM[YQO_@]a@SYIg@GGBKHE^IjAKNYJ]BmADqHh@}BJe@GSMEICMMq@Mu@G[_@o@_@Ug@Ya@OYk@GIQUQ_@g@w@EMCAg@UIGe@_@IGo@c@GCs@[CAs@_@y@[ECYAoA@q@?"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.8930733,
+                    "longitude": 77.5818032
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.905447599999999,
+                    "longitude": 77.5849684
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left after LINING BADMINTON SUPER STORE (on the left)\nContinue to follow Puttenahalli Rd\nPass by Rajhans Jewels & Bankers (on the right)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "1.0 mi"
+                  },
+                  "staticDuration": {
+                    "text": "6 mins"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 79,
+                "staticDuration": "24s",
+                "polyline": {
+                  "encodedPolyline": "arwmAaipxM?}@AqA"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.905447599999999,
+                    "longitude": 77.5849684
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9054605,
+                    "longitude": 77.5856931
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_RIGHT",
+                  "instructions": "Turn right after Myriad Solutions (on the right)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "259 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 82,
+                "staticDuration": "28s",
+                "polyline": {
+                  "encodedPolyline": "crwmAqmpxMoB?c@A"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9054605,
+                    "longitude": 77.5856931
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9062013,
+                    "longitude": 77.5856967
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left after Sarovara Wines Paradise (on the right)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "269 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 311,
+                "staticDuration": "64s",
+                "polyline": {
+                  "encodedPolyline": "wvwmAsmpxMi@@?O@eI@MJI?U?iC"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9062013,
+                    "longitude": 77.5856967
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9063305,
+                    "longitude": 77.5883192
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_RIGHT",
+                  "instructions": "Turn right after McDonald's (on the left)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.2 mi"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 545,
+                "staticDuration": "98s",
+                "polyline": {
+                  "encodedPolyline": "qwwmA_~pxMA{@?gFAqAAaA?_@?c@CeD?u@?cC?oC"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9063305,
+                    "longitude": 77.5883192
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9063798,
+                    "longitude": 77.5933427
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "NAME_CHANGE",
+                  "instructions": "Continue onto 100 Feet Ring Rd/15th Cross Rd/Dr Puneeth Rajkumar Rd/Outer Ring Rd\nPass by CANARA BANK - BENGALURU J P NAGAR II PHASE (on the left)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.3 mi"
+                  },
+                  "staticDuration": {
+                    "text": "2 mins"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 346,
+                "staticDuration": "37s",
+                "polyline": {
+                  "encodedPolyline": "{wwmAk}qxM?k@BoG@i@@UTwE@g@"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9063798,
+                    "longitude": 77.5933427
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.906224100000001,
+                    "longitude": 77.5965234
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_RIGHT",
+                  "instructions": "Keep right to continue on Delmia Flyover Rd/Dollars Colony Junction Fly Over\nContinue to follow Delmia Flyover Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.2 mi"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 321,
+                "staticDuration": "46s",
+                "polyline": {
+                  "encodedPolyline": "{vwmAgqrxMA[aA{FMw@e@wBQ{@Mu@"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.906224100000001,
+                    "longitude": 77.5965234
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9069831,
+                    "longitude": 77.5993733
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "MERGE",
+                  "instructions": "Merge onto 100 Feet Ring Rd/15th Cross Rd/Dr Puneeth Rajkumar Rd/Outer Ring Rd\nPass by Barbeque Nation - JP Nagar (on the left)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.2 mi"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 401,
+                "staticDuration": "65s",
+                "polyline": {
+                  "encodedPolyline": "s{wmAacsxMqFRkBLmCNaFV"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9069831,
+                    "longitude": 77.5993733
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9105692,
+                    "longitude": 77.5990029
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left onto 1st Main Rd\nPass by Advaith Hyundai Service Center, JP Nagar (on the right)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.2 mi"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 108,
+                "staticDuration": "20s",
+                "polyline": {
+                  "encodedPolyline": "arxmAw`sxMK?KwD"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9105692,
+                    "longitude": 77.5990029
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.910694999999999,
+                    "longitude": 77.599924899999991
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_RIGHT",
+                  "instructions": "Turn right at the 1st cross street onto 9th Cross Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "354 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 419,
+                "staticDuration": "56s",
+                "polyline": {
+                  "encodedPolyline": "yrxmAofsxMCUq@D}ETkCFc@@WBaCGSAG?wA@K?"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.910694999999999,
+                    "longitude": 77.599924899999991
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9143648,
+                    "longitude": 77.5998601
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Turn left onto 100 Feet Ring Rd/Bannerghatta Rd\nPass by Shilpa Kala Mantapa (on the left)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.3 mi"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 2385,
+                "staticDuration": "422s",
+                "polyline": {
+                  "encodedPolyline": "wiymAcfsxMYCqAAoF@yCEgBCw@Ae@Ag@HeDKwEKuBII?}BEqCG}AEi@AyACuEII?I?oFSS?k@AsCEa@AwBEiACgCAM?W?[AkA?gCEwAGMBiAAM@mA?W?iAAcBGmBKeC_@aBUoAOgBSgAW[Qs@Ak@A"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9143648,
+                    "longitude": 77.5998601
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9356848,
+                    "longitude": 77.6013146
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_SLIGHT_RIGHT",
+                  "instructions": "Slight right onto Bannerghatta Rd\nPass by Jala Bhavan (on the left in 0.7 mi)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "1.5 mi"
+                  },
+                  "staticDuration": {
+                    "text": "7 mins"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 115,
+                "staticDuration": "17s",
+                "polyline": {
+                  "encodedPolyline": "_o}mAeosxMa@?[AoAQ}@M"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9356848,
+                    "longitude": 77.6013146
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9367007,
+                    "longitude": 77.6014773
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_LEFT",
+                  "instructions": "Keep left to continue on Bannerghatta-Marigowda Turn Rd\nPass by GOVERNMENT MODEL INDUSTRIAL TRAINING INSTITUTE (on the left)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "377 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 38,
+                "staticDuration": "8s",
+                "polyline": {
+                  "encodedPolyline": "ku}mAgpsxMcAI"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.9367007,
+                    "longitude": 77.6014773
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.937038,
+                    "longitude": 77.6015345
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "STRAIGHT",
+                  "instructions": "Continue straight to stay on Bannerghatta-Marigowda Turn Rd"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "125 ft"
+                  },
+                  "staticDuration": {
+                    "text": "1 min"
+                  }
+                },
+                "travelMode": "DRIVE"
+              },
+              {
+                "distanceMeters": 1117,
+                "staticDuration": "190s",
+                "polyline": {
+                  "encodedPolyline": "ow}mAqpsxMg@GFu@F_AHsARmCHu@BIJIJqADs@J}AFs@HeBFm@Bg@Be@BSBWBYNs@DQDOFWV_AJe@DQVu@zAyCnBgD`@o@LSNShAyAx@iA"
+                },
+                "startLocation": {
+                  "latLng": {
+                    "latitude": 12.937038,
+                    "longitude": 77.6015345
+                  }
+                },
+                "endLocation": {
+                  "latLng": {
+                    "latitude": 12.9339867,
+                    "longitude": 77.61083339999999
+                  }
+                },
+                "navigationInstruction": {
+                  "maneuver": "TURN_RIGHT",
+                  "instructions": "Turn right onto Bannerghatta-Marigowda Turn Rd/Hosur Main Road/Marigowda Rd\nContinue to follow Hosur Main Road\nPass by S Indian Bank ATM (on the left in 0.5 mi)"
+                },
+                "localizedValues": {
+                  "distance": {
+                    "text": "0.7 mi"
+                  },
+                  "staticDuration": {
+                    "text": "3 mins"
+                  }
+                },
+                "travelMode": "DRIVE"
+              }
+            ],
+            "localizedValues": {
+              "distance": {
+                "text": "5.5 mi"
+              },
+              "duration": {
+                "text": "31 mins"
+              },
+              "staticDuration": {
+                "text": "27 mins"
+              }
+            }
+          }
+        ],
+        "distanceMeters": 8802,
+        "duration": "1850s",
+        "staticDuration": "1607s",
+        "polyline": {
+          "encodedPolyline": "m}tmAginxMn@BHgAPeBBS@KDi@BY?]AKAQCSMiAC_@Ga@E[AOCO?KScCKmBOoAEg@CYCWWsCEuAAi@kDBCGC{@C}AaAB_ABO@eABQ@W?I?_@?c@AG?G?m@Ao@AOA_AAK?EAc@CMAu@Ey@Iw@K]IWIWM[YQO_@]a@SYIg@GGBKHE^IjAKNYJ]BmADqHh@}BJe@GSMEICMMq@Mu@G[_@o@_@Ug@Ya@OYk@GIQUQ_@g@w@EMCAg@UIGe@_@IGo@c@GCs@[CAs@_@y@[ECYAoA@q@??}@AqAoB?c@Ai@@?O@eI@MJI?U?iCA{@?gFAqAAaA?_@?c@CeD?u@?cC?oC?k@BoG@i@@UTwE@g@A[aA{FMw@e@wBQ{@Mu@qFRkBLmCNaFVK?KwDCUq@D}ETkCFc@@WBaCGSAG?wA@K?YCqAAoF@yCEgBCw@Ae@Ag@HeDKwEKuBII?}BEqCG}AEi@AyACuEII?I?oFSS?k@AsCEa@AwBEiACgCAM?W?[AkA?gCEwAGMBiAAM@mA?W?iAAcBGmBKeC_@aBUoAOgBSgAW[Qs@Ak@Aa@?[AoAQ}@McAIg@GFu@F_AHsARmCHu@BIJIJqADs@J}AFs@HeBFm@Bg@Be@BSBWBYNs@DQDOFWV_AJe@DQVu@zAyCnBgD`@o@LSNShAyAx@iA"
+        },
+        "description": "Bannerghatta Rd",
+        "viewport": {
+          "low": {
+            "latitude": 12.8914537,
+            "longitude": 77.5747413
+          },
+          "high": {
+            "latitude": 12.937235999999999,
+            "longitude": 77.61083339999999
+          }
+        },
+        "travelAdvisory": {},
+        "localizedValues": {
+          "distance": {
+            "text": "5.5 mi"
+          },
+          "duration": {
+            "text": "31 mins"
+          },
+          "staticDuration": {
+            "text": "27 mins"
+          }
+        },
+        "routeToken": "CscCCtoBMtcBGrsBCj4CFhJteqcM8JYJ1gWo0hDFmIEB38uEAfEM_swRkboQqIYHycsF0scCzQnpQJzRAqSFoQHz86IB9pQeheUcABI8RyaXtQIq5E7LINcs0uX0_BnjDXIqRp9iRt9JjwX3nxm1cU115qE1Hx0SwFMSYQRwkpKwNxv6OOO1Jkd2GhEAC0KiAh0EAoABMQAEAwoMHCoPPWZdGGYdAF4bd3MAAxoGMgMGBAQ9oZXGPkUAAIA_SN701YvMh7XpbiIXVlRubFo2NnpGN1RnOWZ3UHM2VE9nUWcQBRpPCk0KGAoNCgIIAREAAAAAAIBmQBHP91PjJXqfQBISCAAQAxAGEBMQEhgCQgQaAggFIhsKF1ZUbmxaNnI2RmJUZzlmd1BzNlRPZ1FncAEoASIVAMukU535WAz3RbZQhbhq54VTgCU9GhgKCg0mJq8HFQv4PC4SCg1CIK8HFcnrPC4",
+        "routeLabels": [
+          "DEFAULT_ROUTE"
+        ],
+        "polylineDetails": {}
+      }
+    ],
+    "geocodingResults": {
+      "origin": {
+        "geocoderStatus": {},
+        "type": [
+          "establishment",
+          "hindu_temple",
+          "place_of_worship",
+          "point_of_interest"
+        ],
+        "placeId": "ChIJO_2Fu0QVrjsRmeykNRHnTys"
+      },
+      "destination": {
+        "geocoderStatus": {},
+        "type": [
+          "establishment",
+          "point_of_interest",
+          "shopping_mall"
+        ],
+        "placeId": "ChIJuzGXhU0UrjsRCRsq7sQj5Xs"
+      }
+    }
+  }
+  

@@ -1,0 +1,62 @@
+{
+    "routes": [
+      {
+        "distanceMeters": 8846,
+        "duration": "2153s",
+        "staticDuration": "1737s",
+        "polyline": {
+          "encodedPolyline": "m}tmAginxMn@BHgA`@iEAi@k@yF_@qFu@}HG_CkDBCGGyCkGNsGKgBKqBUu@SWMmAgA{@]g@GSLE^IjAKNYJ]BmADqHh@}BJe@GSMIWc@cC_@o@_@Ug@Ya@Oa@u@QUQ_@g@w@EMu@_@_BkAsBaA_A_@YAaC@AoCeSBuH@cDAiB@cPOsOIS@FkDImAUeBC_A@eHFm@NqADo@@oBF{FDwKDoEFqH@e@iDEuFCoQQmB?wFKuECsBG{KAsEIDyHJ{I_CAgCEwAGMBiAAM@mA?aBAqESgFu@wDc@gAW[Q_BCa@?[AmC_@kBQl@wIHu@BIJId@wGHeBVgDRmAv@_D\\gAzAyCnBgDn@cArCwD"
+        },
+        "localizedValues": {
+          "distance": {
+            "text": "8.8 km"
+          },
+          "duration": {
+            "text": "36 mins"
+          },
+          "staticDuration": {
+            "text": "29 mins"
+          }
+        }
+      },
+      {
+        "distanceMeters": 8802,
+        "duration": "2226s",
+        "staticDuration": "1607s",
+        "polyline": {
+          "encodedPolyline": "m}tmAginxMn@BHgA`@iEAi@k@yF_@qFu@}HG_CkDBCGGyCkGNsGKgBKqBUu@SWMmAgA{@]g@GSLE^IjAKNYJ]BmADqHh@}BJe@GSMIWc@cC_@o@_@Ug@Ya@Oa@u@QUQ_@g@w@EMu@_@_BkAsBaA_A_@YAaC@AoC}D?@uI@MJI?_DA{@C_MC{EBoQB_ATwE?cAoAsHeAiFqFRgNt@OmEoGZgEL}CIcB@YCaI?yHKe@Ag@HeDKwEK_CIqNYiFIcGSyIOiACuGCgCEwAGMBiAAM@mA?aBAqESgFu@wDc@gAW[Q_BCa@?[AmC_@kBQl@wIHu@BIJId@wGHeBVgDRmAv@_D\\gAzAyCnBgDn@cArCwD"
+        },
+        "localizedValues": {
+          "distance": {
+            "text": "8.8 km"
+          },
+          "duration": {
+            "text": "37 mins"
+          },
+          "staticDuration": {
+            "text": "27 mins"
+          }
+        }
+      },
+      {
+        "distanceMeters": 8835,
+        "duration": "2285s",
+        "staticDuration": "1800s",
+        "polyline": {
+          "encodedPolyline": "m}tmAginxMn@BHgA`@iEAi@k@yF_@qFu@}HG_CkDBCGGyCkGNsGKgBKqBUu@SWMmAgA{@]g@GSLE^IjAKNYJ]BmADqHh@}BJe@GSMIWc@cC_@o@_@Ug@Ya@Oa@u@QUQ_@g@w@EMu@_@_BkAsBaA_A_@YAaC@AoCeSBuH@cDAiB@cPOsOIS@FkDImAUeBC_A@eHFm@NqADo@@oBF{FDwKDoEFqHBeE?iAJmT@{B?yABuBDgMBwADeIC]LuJQIBuA?[uAIgCCoKc@iDgAyBgA{@[qAhBs@n@w@d@w@\\_B^w@^oDhBYHk@^o@h@i@La@?{AKqDi@{CWw@Ko@KqCY}BWwB_@eIaAqAQgAAeADo@Vc@No@J}DNe@?OCSM\\g@bCcD"
+        },
+        "localizedValues": {
+          "distance": {
+            "text": "8.8 km"
+          },
+          "duration": {
+            "text": "38 mins"
+          },
+          "staticDuration": {
+            "text": "30 mins"
+          }
+        }
+      }
+    ]
+  }
+  
